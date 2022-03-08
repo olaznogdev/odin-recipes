@@ -1,3 +1,3 @@
-Odin project's RECIPES!
+Trollskull Tavern Recipes
 
-This is my first project in this learning platform. Before i have done almost complete the first Certification in FreeCodecamp but, c'est la vie, i couldn't keep going. Life things, you know. Anyway, i'm really excited in what The Odin Project has to offer. I'm having so much fun so far and it's just starting. I can't wait to get my hands over CSS and JS again (that's what she said). I shouldn't keep going with the jokes, im suposed to work hard. Let's do it boy!
+Rordon Gamsey presents his early work in Trollskull Tavern's Recipes. In this book you will find the most delicious cooking recipes for you to taste at your home your favourite meals of the most famous tavern in Waterdeep.

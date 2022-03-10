@@ -1,5 +1,6 @@
 body{
     background: url(images/waterdeep-background.jpg);
+    background-size: 100vw;
 }
 .container{
     display: flex;
@@ -21,6 +22,7 @@ div.bar-center.title{
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
     text-align: center;
+    font-size: 1.25vw;
 }
 #signature{
     text-align: center;
@@ -28,7 +30,7 @@ div.bar-center.title{
     font-family: 'Hubballi', sans-serif;
     color: whitesmoke;
     margin-top: 3vh;
-        display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
@@ -39,12 +41,29 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
-h2{
+h2.subtitle{
+    display: block;
     text-align: center;
     color: whitesmoke;
     font-family: 'Montserrat', sans-serif;
-    font-size: 5vh;
+    font-size: 4vh;
+    margin-top: 7vw;
+}
+h2.coming{
+    font-size: 3.5vw;
 }
 a{
+    display: block;
+    font-family: 'Hubballi', sans-serif;
+    font-size: 8vh;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+a{
+    display: none;
+}
+h2.subtitle{
     display: none;
 }

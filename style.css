@@ -1,0 +1,40 @@
+body{
+    background: url(images/waterdeep-background.jpg);
+    background-size: 215vh;
+}/*
+#background-bar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw;
+    height: 500vw;
+    border: solid red 2px;
+}*/
+h1{
+    text-align: center;
+    font-size: 8vh;
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+}
+p{
+    text-align: center;
+    font-size: 5vh;
+    font-family: 'Hubballi', sans-serif;
+    color: whitesmoke;
+}
+img{
+    display: block;
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5vh;
+}
+a{
+    display: none;
+}

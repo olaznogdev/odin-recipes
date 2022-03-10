@@ -1,26 +1,36 @@
 body{
     background: url(images/waterdeep-background.jpg);
-    background-size: 215vh;
-}/*
-#background-bar{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50vw;
-    height: 500vw;
-    border: solid red 2px;
-}*/
-h1{
-    text-align: center;
-    font-size: 8vh;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.bar-left{
+    flex: 1 1 0%;
+    width:auto;
+}
+.bar-center{
+    flex: 1 1 0%;
+    width:auto;
+}
+.bar-right{
+    flex: 1 1 0%;
+    width:auto;
+}
+div.bar-center.title{
     font-family: 'Montserrat', sans-serif;
     color: whitesmoke;
+    text-align: center;
 }
-p{
+#signature{
     text-align: center;
     font-size: 5vh;
     font-family: 'Hubballi', sans-serif;
     color: whitesmoke;
+    margin-top: 3vh;
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 img{
     display: block;
